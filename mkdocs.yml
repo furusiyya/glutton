@@ -2,6 +2,7 @@ site_name: Glutton Documentation
 version: 1.0
 nav:
   - Introduction: index.md
+  - Installation: installation.md
 theme:
   name: readthedocs
 
