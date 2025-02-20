@@ -5,6 +5,7 @@ nav:
   - Installation: installation.md
   - Configuration: configuration.md
   - Deployment: deployment.md
+  - Extension: extension.md
 theme:
   name: readthedocs
 
