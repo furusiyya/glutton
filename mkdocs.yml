@@ -1,0 +1,7 @@
+site_name: Glutton Documentation
+version: 1.0
+nav:
+  - Introduction: index.md
+theme:
+  name: readthedocs
+
