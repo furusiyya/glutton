@@ -3,6 +3,7 @@ version: 1.0
 nav:
   - Introduction: index.md
   - Installation: installation.md
+  - Configuration: configuration.md
 theme:
   name: readthedocs
 
