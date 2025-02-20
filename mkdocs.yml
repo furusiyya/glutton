@@ -4,6 +4,7 @@ nav:
   - Introduction: index.md
   - Installation: installation.md
   - Configuration: configuration.md
+  - Deployment: deployment.md
 theme:
   name: readthedocs
 
