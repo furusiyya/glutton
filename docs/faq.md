@@ -14,11 +14,5 @@
 - **config/config.yaml:** General settings such as port numbers and interface names.
 - **config/rules.yaml:** Defines rules for matching and processing network traffic.
 
-### Q: Can I run Glutton in a containerized environment?
-**A:** Yes. Glutton includes a Dockerfile for containerized deployment. Refer to the [Deployment](deployment.md) section for Docker instructions.
-
 ### Q: What are the system prerequisites?
 **A:** Glutton requires a Linux system, so if you're using a different OS, you'll have to use Docker to set it up. Specific installation commands are provided in the [Setup](setup.md) section.
-
-### Q: Where can I find more information or contribute?
-**A:** More details can be found in the repository's README. Contributions are welcome via pull requests on GitHub.
