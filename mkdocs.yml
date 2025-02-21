@@ -4,6 +4,8 @@ nav:
   - Introduction: index.md
   - Setup: setup.md
   - Configuration: configuration.md
+  - Extension: extension.md
+  - FAQs: faq.md
 theme:
   name: readthedocs
 
