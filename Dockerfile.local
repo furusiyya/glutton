@@ -1,7 +1,7 @@
 FROM golang:1.23-alpine
 
 RUN apk update
-RUN apk add -q --update --progress --no-cache bash g++ git make iptables iptables-dev libpcap-dev
+RUN apk add -q --update --progress --no-cache bash curl g++ git make iptables iptables-dev libpcap-dev procps
 
 RUN go install golang.org/x/tools/gopls@latest 2>&1
 RUN go install -v github.com/go-delve/delve/cmd/dlv@latest 2>&1
